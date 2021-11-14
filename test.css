@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  width: 60%;
+  margin: 0 auto;
+ 
+ 
+}
+
+.images {
+  text-align :center;
+}
+
+.btn-line {
+
+  margin: 0 auto;
+  text-align :center;
+  width: 700px;
+}
+a {
+  text-align :center;
+}
+
+img {
+  width: 100%;
+  margin: 15px 0px;
+}
